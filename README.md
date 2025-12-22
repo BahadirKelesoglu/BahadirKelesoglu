@@ -37,10 +37,6 @@ Currently, I am pursuing my **M.Sc. in Computer Engineering** at Marmara Univers
 
 ---
 
-### 🏆 Open Source Contributions
-- **Spring Framework:** Fixed a bug in `StringUtils` class (PR #12345) 
-- **Jackson JSON:** Improved documentation for streaming API.
-
 ### 💼 Professional Experience Highlights
 
 Here are some key technologies and methodologies I use in production environments:
