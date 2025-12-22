@@ -1,42 +1,50 @@
-### Selamlar, ben Bahadır! 👋
+### Hi there, I'm Bahadir! 👋
 
-Bilgisayar Mühendisiyim. Ağırlıklı olarak **Backend Sistemler**, **Mikroservis Mimarileri** ve **Java Ekosistemi** üzerine çalışıyorum. 
+I'm a **Java Developer** based in **Istanbul, Türkiye**, specializing in **Backend Systems**, **Microservices**, and **Event-Driven Architectures**.
 
-- 🔭 Şu an **Java Spring Boot ve Dağıtık Sistemler** üzerine yoğunlaşmış durumdayım.
-- 🌱 Geçmişte **Makine Öğrenimi (NLP, LSTM)** ile borsa tahminleri üzerine akademik çalışmalar yaptım.
-- ⚡ **Uzmanlıklarım:** Java, Spring Boot, Kafka, Redis, Elasticsearch, Docker.
+Currently, I am pursuing my **M.Sc. in Computer Engineering** at Marmara University while building scalable software solutions.
+
+- 🔭 I’m currently working on **Spring Boot Microservices** and **Distributed Systems**.
+- 🌱 I’m currently deepening my knowledge in **Advanced Algorithms** and **System Design**.
+- 💡 I have professional experience in **Payment Systems**, **Kafka Consumers**, and **Observability** (Prometheus/Grafana).
+- ⚡ **Fun fact:** I love optimizing SQL queries and implementing **Redis** caching strategies to boost performance!
 
 ---
 
-### 🛠️ Kullandığım Teknolojiler
+### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,maven,postgres,mysql,redis,kafka,docker,jenkins,git,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,redis,kafka,elasticsearch&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,maven,idea,grafana&perline=8" />
 </div>
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BahadirKelesoglu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BahadirKelesoglu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKelesoglu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKelesoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BahadirKelesoglu&theme=tokyonight&hide_border=true" width="98%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BahadirKelesoglu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="98%" />
 </div>
 
 ---
 
-### 🚀 Neler Yapıyorum?
+### 💼 Professional Experience Highlights
 
-- **Borsa Tahmin Sistemi:** LSTM ve NLP kullanarak THY, BİM gibi hisselerin analizi.
-- **Microservice Ödeme Altyapısı:** Kafka ve Redis tabanlı ölçeklenebilir ödeme sistemi.
+Here are some key technologies and methodologies I use in production environments:
 
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=BahadirKelesoglu&style=flat-square&color=blue" alt="profile counter" />
-</div>
+* **Microservices:** Designing robust REST APIs using **Spring Boot** and **OpenAPI**.
+* **Data Persistence:** Modeling complex schemas in **PostgreSQL** and optimizing performance with indexing.
+* **Messaging:** Building event-driven integrations using **Apache Kafka** (Consumer Groups, Retry/DLQ).
+* **DevOps:** Automating CI/CD pipelines with **Jenkins** and containerizing applications with **Docker**.
+* **Monitoring:** Setting up observability stacks with **Prometheus**, **Grafana**, and **Kibana**.
+
+---
