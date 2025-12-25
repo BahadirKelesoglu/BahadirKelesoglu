@@ -26,7 +26,7 @@ bahadirkelesoglu.site
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BahadirKelesoglu&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKelesoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6&exclude_repo=Kartviz.it" width="48%" />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKelesoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" width="48%" />
 </div>
