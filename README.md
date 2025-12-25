@@ -2,51 +2,49 @@
 
 I'm a **Java Developer** based in **Istanbul, Türkiye**, specializing in **Backend Systems**, **Microservices**, and **Event-Driven Architectures**.
 
-Currently, I am pursuing my **M.Sc. in Computer Engineering** at Marmara University while building scalable software solutions.
-
-- 🔭 I’m currently working on **Spring Boot Microservices** and **Distributed Systems**.
-- 🌱 I’m currently deepening my knowledge in **Advanced Algorithms** and **System Design**.
-- 💡 I have professional experience in **Payment Systems**, **Kafka Consumers**, and **Observability** (Prometheus/Grafana).
-- ⚡ **Fun fact:** I love optimizing SQL queries and implementing **Redis** caching strategies to boost performance!
-
-bahadirkelesoglu.site
+- 🔭 Currently working on **Spring Boot Microservices** and **Distributed Systems**.
+- 💡 Experienced in **Payment Systems**, **Kafka Consumers**, and **Observability** (Prometheus/Grafana).
+- 🎓 Pursuing **M.Sc. in Computer Engineering** at Marmara University.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,postgres,mysql,redis,kafka,elasticsearch&perline=8" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,linux,maven,idea,grafana&perline=8" />
-</div>
+**Languages & Frameworks** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+**Data & Messaging** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+
+**DevOps & Tools** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats
+### 💼 Professional Highlights
+
+* **Microservices:** Designed robust REST APIs using **Spring Boot** and **OpenAPI**.
+* **Data Persistence:** Modeled complex schemas in **PostgreSQL** and optimized performance.
+* **Event-Driven:** Built integrations using **Apache Kafka** (Consumer Groups, Retry/DLQ).
+* **Observability:** Set up monitoring stacks with **Prometheus**, **Grafana**, and **Kibana**.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKelesoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6&exclude_repo=Kartviz.it" width="48%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BahadirKelesoglu&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&langs_count=6" width="48%" />
+
+<a href="https://linkedin.com/in/bahadirkelesoglu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:bahadirkelesoglu28@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://bahadirkelesoglu.site" target="_blank">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BahadirKelesoglu&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" width="98%" />
-</div>
-
----
-
-### 💼 Professional Experience Highlights
-
-Here are some key technologies and methodologies I use in production environments:
-
-* **Microservices:** Designing robust REST APIs using **Spring Boot** and **OpenAPI**.
-* **Data Persistence:** Modeling complex schemas in **PostgreSQL** and optimizing performance with indexing.
-* **Messaging:** Building event-driven integrations using **Apache Kafka** (Consumer Groups, Retry/DLQ).
-* **DevOps:** Automating CI/CD pipelines with **Jenkins** and containerizing applications with **Docker**.
-* **Monitoring:** Setting up observability stacks with **Prometheus**, **Grafana**, and **Kibana**.
-
----
