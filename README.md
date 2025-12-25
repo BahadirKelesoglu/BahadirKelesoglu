@@ -10,6 +10,7 @@ Currently, I am pursuing my **M.Sc. in Computer Engineering** at Marmara Univers
 - ⚡ **Fun fact:** I love optimizing SQL queries and implementing **Redis** caching strategies to boost performance!
 
 bahadirkelesoglu.site
+
 ---
 
 ### 🛠️ Tech Stack & Tools
